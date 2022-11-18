@@ -22,5 +22,3 @@ Here The customer Can Know That THe Information About This Page -
 # Contact Us page
 In this Page Customer Can Contact Us - 
 ![Screenshot (11)](https://user-images.githubusercontent.com/116142957/202631431-31b987ee-8976-465e-aecd-efd31b7886ce.png)
-
-![Screenshot (6)](https://user-images.githubusercontent.com/116142957/202631439-75c19d13-4117-4f54-980e-7e996b886bc0.png)
